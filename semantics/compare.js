@@ -6,7 +6,6 @@ const resultParagraph = document.getElementById('result');
 // Add an event listener for the button click
 calculateButton.addEventListener('click', () => {
     // Get input values as they are (string format)
-debugger;
 const num1 = num1Input.value;
     const num2 = num2Input.value;
 
